@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CardIndex</string>
+    <string name="enter_book_name_string">Enter book name</string>
+    <string name="go_string">Go!</string>
+    <string name="books_file_name">books.txt</string>
+    <string name="reviews_file_name">reviews.txt</string>
+</resources>
