@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Book Shop</string>
+    <string name="trn_search">Search</string>
+    <string name="trn_pattern_hint">Search pattern...</string>
+    <string name="trn_search_button">Go</string>
+    <string name="trn_price_unit">roubles</string>
+    <string name="trn_language">Language: </string>
+    <string name="trn_pages">Pages: </string><string name="trn_buy">Buy</string>
+    <string name="trn_grade">Book grade: </string>
+</resources>
