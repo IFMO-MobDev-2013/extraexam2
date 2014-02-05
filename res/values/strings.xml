@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Book Shelf</string>
+    <string name="csv">csvINFO</string>
+    <string name="csv1">csvINFO</string>
+    <string name="search">Найти</string>
+</resources>
