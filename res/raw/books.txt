@@ -1,0 +1,7 @@
+"17562834","Java. Руководство для начинающих","Герберт Шилдт","Русский","624","558","http://www.ozon.ru/context/detail/id/17562834/"
+"23529814","Структуры данных и алгоритмы в Java.","Роберт Лафоре","Русский","704","728","http://www.ozon.ru/context/detail/id/23529814/"
+"7328622","Java 7","Ильдар Хабибуллин","Русский","768","532","http://www.ozon.ru/context/detail/id/7328622/"
+"7449696","Web-сервисы Java","Ильдар Хабибуллин","Русский","560","401","http://www.ozon.ru/context/detail/id/7449696/"
+"18567147","Веселые научные опыты для детей и взрослых. Химия","Сергей Болушевский","Русский","72","191","http://www.ozon.ru/context/detail/id/18567147/"
+"7251677","Решение задач по химии. 8-11 класс","Иван Хомченко","Русский","256","145","http://www.ozon.ru/context/detail/id/7251677/"
+"1391594716","Java Programming Guide","GradeStack Education","Английский","510","0","http://www.amazon.com/GradeStack-Education-Java-Programming-Guide/dp/B00F6NPLRI/ref=sr_1_3?ie=UTF8&qid=1391594716&sr=8-3&keywords=java"
