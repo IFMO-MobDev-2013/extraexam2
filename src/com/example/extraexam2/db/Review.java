@@ -1,9 +1,11 @@
 package com.example.extraexam2.db;
 
+import java.io.Serializable;
+
 /**
  * Created by gfv on 05.02.14.
  */
-public class Review {
+public class Review implements Serializable {
     Integer bookId;
     Integer mark;
     String review;

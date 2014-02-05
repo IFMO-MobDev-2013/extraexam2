@@ -1,9 +1,11 @@
 package com.example.extraexam2.db;
 
+import java.io.Serializable;
+
 /**
  * Created by gfv on 05.02.14.
  */
-public class Book {
+public class Book implements Serializable {
     private Integer id;
     private String name;
     private String author;
@@ -65,7 +67,8 @@ public class Book {
         this.URL = URL;
     }
 
-    public Book(String name, String author, String language, Integer pageNumber, Integer price, String URL) {
+    public Book(Integer id, String name, String author, String language, Integer pageNumber, Integer price, String URL) {
+        this.id = id;
         this.name = name;
         this.author = author;
         this.language = language;
